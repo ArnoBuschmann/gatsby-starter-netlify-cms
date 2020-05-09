@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Neue Seite von Arno
+title: Neue Seite, jetzt alles anders
 date: 2020-05-09T21:15:29.212Z
 description: Zu Testzwecken
 featuredpost: true
